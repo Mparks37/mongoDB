@@ -38,5 +38,4 @@ npm install morgan --save
 
 ```
 
-# Copyright
-Jahdasha Flagg (C) 2016. All Rights Reserved.
+
