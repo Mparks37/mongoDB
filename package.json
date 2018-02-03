@@ -10,9 +10,9 @@
   "author": "Mike Parks",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "file:node_modules/body-parser",
+    "body-parser": "^1.18.2",
     "cheerio": "file:node_modules/cheerio",
-    "express": "file:node_modules/express",
+    "express": "^4.16.2",
     "express-handlebars": "^3.0.0",
     "mongoose": "^4.4.6",
     "morgan": "^1.7.0",
